@@ -1,5 +1,4 @@
 # Sales-Forecasting-with-ARIMA-Time-Series-Analysis-Project
-# 🛒 Sales Forecasting with ARIMA – Time Series Analysis
 
 ## 📌 Objective
 Forecast weekly sales for a Walmart retail store using ARIMA time series modeling techniques in Python.
